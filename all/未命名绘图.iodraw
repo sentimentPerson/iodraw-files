@@ -47,15 +47,15 @@
           <mxGeometry x="90" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QjLdyjb6W1iP9IqPuAep-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="330" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QjLdyjb6W1iP9IqPuAep-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QjLdyjb6W1iP9IqPuAep-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="220" as="sourcePoint" />
-            <mxPoint x="70" y="180" as="targetPoint" />
+            <mxPoint x="60" y="280" as="sourcePoint" />
+            <mxPoint x="60" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QjLdyjb6W1iP9IqPuAep-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
